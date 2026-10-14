@@ -2,6 +2,10 @@
 
 ![M24](/usa/ground/tier_3_img/M24_1.png)
 
+# M18
+
+![M18](/usa/ground/tier_3_img/M18_1.png)
+
 # M4A1 (76) W
 
 ![M4A176W](/usa/ground/tier_3_img/M4A176W_1.png)
