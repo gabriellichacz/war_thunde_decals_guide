@@ -2,6 +2,10 @@
 
 ![Strv m/41 S-II](/sweden/ground/tier_2_img/Strvm41SII_1.png)
 
+# Strv m/41 S-I
+
+![Strv m/41 S-I](/sweden/ground/tier_2_img/Strvm41SI_1.png)
+
 # PvkV III
 
 ![PvkV III](/sweden/ground/tier_2_img/PvkVIII_1.png)
