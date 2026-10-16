@@ -10,6 +10,8 @@
 
 ![PvkV III](/sweden/ground/tier_2_img/PvkVIII_1.png)
 
+![PvkV III](/sweden/ground/tier_2_img/PvkVIII_1_irl.png)
+
 # Lago I
 
 ![Lago I](/sweden/ground/tier_2_img/LagoI_1.png)
