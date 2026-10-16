@@ -19,10 +19,15 @@
 # Strv m/42 EH
 
 ![Strv m/42 EH](/sweden/ground/tier_2_img/Strvm42EH_1.png)
+![Strv m/42 EH](/sweden/ground/tier_2_img/Strvm42EH_2.png)
+
+![Strv m/42 EH](/sweden/ground/tier_2_img/Strvm42EH_1_irl.png)
 
 # Pbv 301
 
 ![Pbv 301](/sweden/ground/tier_2_img/Pbv301_1.png)
+
+![Pbv 301](/sweden/ground/tier_2_img/Pbv301_1_irl.png)
 
 # Lvtdgb m/40
 
@@ -32,6 +37,10 @@
 
 ![Spj fm/43-44](/sweden/ground/tier_2_img/Spjfm4344_1.png)
 
+![Spj fm/43-44](/sweden/ground/tier_2_img/Spjfm4344_1_irl.png)
+
 # Sav m/42 (1946)
 
 ![Sav m/42 (1946)](/sweden/ground/tier_2_img/Savm421946_1.png)
+
+![Sav m/42 (1946)](/sweden/ground/tier_2_img/Savm421946_1_irl.png)
