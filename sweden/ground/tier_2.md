@@ -2,9 +2,13 @@
 
 ![Strv m/41 S-II](/sweden/ground/tier_2_img/Strvm41SII_1.png)
 
+![Strv m/41 S-II](/sweden/ground/tier_2_img/Strvm41SII_1_irl.png)
+
 # Strv m/41 S-I
 
 ![Strv m/41 S-I](/sweden/ground/tier_2_img/Strvm41SI_1.png)
+
+![Strv m/41 S-I](/sweden/ground/tier_2_img/Strvm41SI_1_irl.png)
 
 # PvkV III
 
@@ -15,6 +19,8 @@
 # Lago I
 
 ![Lago I](/sweden/ground/tier_2_img/LagoI_1.png)
+
+![Lago I](/sweden/ground/tier_2_img/LagoI_1_irl.png)
 
 # Strv m/42 EH
 
@@ -32,6 +38,8 @@
 # Lvtdgb m/40
 
 ![Lvtdgb m/40](/sweden/ground/tier_2_img/Lvtdgbm40_1.png)
+
+![Lvtdgb m/40](/sweden/ground/tier_2_img/Lvtdgbm40_1_irl.png)
 
 # Spj fm/43-44
 
