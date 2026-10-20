@@ -48,6 +48,6 @@
 
 # T-28
 
-![T-28](/sweden/ground/tier_1_img/T-28_1.png)
+![T-28](/sweden/ground/tier_1_img/T28_1.png)
 
-![T-28](/sweden/ground/tier_1_img/T-28_1_irl.png)
+![T-28](/sweden/ground/tier_1_img/T28_1_irl.png)
