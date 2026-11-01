@@ -15,3 +15,9 @@
 ![Firefly FR Mk V](/british/air/tier_3_img/FireflyFRMkV_1.png)
 
 ![Firefly FR Mk V](/british/air/tier_3_img/FireflyFRMkV_1_irl.png)
+
+# Spitfire Mk Vc/trop
+
+![Spitfire Mk Vc/trop](/british/air/tier_3_img/SpitfireMkVctrop_1.png)
+
+![Spitfire Mk Vc/trop](/british/air/tier_3_img/SpitfireMkVctrop_1_irl.png)
