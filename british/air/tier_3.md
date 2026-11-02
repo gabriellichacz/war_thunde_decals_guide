@@ -10,11 +10,27 @@
 
 ![Spitfire F Mk IX](/british/air/tier_3_img/SpitfireFMkIX_1_irl.png)
 
+![Spitfire F Mk IX](/british/air/tier_3_img/SpitfireFMkIX_2.png)
+
+![Spitfire F Mk IX](/british/air/tier_3_img/SpitfireFMkIX_2_irl.png)
+
 # Spitfire F Mk XVI
 
 ![Spitfire F Mk XVI](/british/air/tier_3_img/SpitfireFMkXVI_1.png)
 
 ![Spitfire F Mk XVI](/british/air/tier_3_img/SpitfireFMkXVI_1_irl.png)
+
+# Spitfire Mk Vc/trop
+
+![Spitfire Mk Vc/trop](/british/air/tier_3_img/SpitfireMkVctrop_1.png)
+
+![Spitfire Mk Vc/trop](/british/air/tier_3_img/SpitfireMkVctrop_1_irl.png)
+
+# Spitfire Mk Vc
+
+![Spitfire Mk Vc](/british/air/tier_3_img/SpitfireMkVc_1.png)
+
+![Spitfire Mk Vc](/british/air/tier_3_img/SpitfireMkVc_1_irl.png)
 
 # Firefly F Mk I
 
@@ -69,7 +85,6 @@
 ![Whirlwind Mk I](/british/air/tier_3_img/WhirlwindMkI_1.png)
 
 ![Whirlwind Mk I](/british/air/tier_3_img/WhirlwindMkI_1_irl.png)
-
 
 # Halifax B Mk IIIa
 
