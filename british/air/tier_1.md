@@ -10,6 +10,10 @@
 
 ![Fury Mk II](/british/air/tier_1_img/FuryMkII_1_irl.png)
 
+![Fury Mk II](/british/air/tier_1_img/FuryMkII_2.png)
+
+![Fury Mk II](/british/air/tier_1_img/FuryMkII_2_irl.png)
+
 # Gladiator Mk II
 
 ![Gladiator Mk II](/british/air/tier_1_img/GladiatorMkII_1.png)
