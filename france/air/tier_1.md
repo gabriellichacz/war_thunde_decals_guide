@@ -46,7 +46,6 @@
 
 ![D.500](/france/air/tier_1_img/D500_2_irl.png)
 
-
 # D.501
 
 ![D.501](/france/air/tier_1_img/D501_1.png)
