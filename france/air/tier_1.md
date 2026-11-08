@@ -30,6 +30,10 @@
 
 ![M.S.405C1](/france/air/tier_1_img/MS405C1_1_irl.png)
 
+![M.S.405C1](/france/air/tier_1_img/MS405C1_2.png)
+
+![M.S.405C1](/france/air/tier_1_img/MS405C1_2_irl.png)
+
 # M.S.406C1
 
 ![M.S.406C1](/france/air/tier_1_img/MS406C1_1.png)
@@ -111,3 +115,7 @@
 ![Fokker D.XXI](/france/air/tier_1_img/FokkerDXXI_1.png)
 
 ![Fokker D.XXI](/france/air/tier_1_img/FokkerDXXI_1_irl.png)
+
+![Fokker D.XXI](/france/air/tier_1_img/FokkerDXXI_2.png)
+
+![Fokker D.XXI](/france/air/tier_1_img/FokkerDXXI_2_irl.png)
