@@ -40,6 +40,10 @@
 
 ![M.S.406C1](/france/air/tier_1_img/MS406C1_1_irl.png)
 
+![M.S.406C1](/france/air/tier_1_img/MS406C1_2.png)
+
+![M.S.406C1](/france/air/tier_1_img/MS406C1_2_irl.png)
+
 # D.500
 
 ![D.500](/france/air/tier_1_img/D500_1.png)
