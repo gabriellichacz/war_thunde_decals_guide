@@ -56,6 +56,12 @@
 
 ![Beaufort Mk VIII](/british/air/tier_1_img/BeaufortMkVIII_1_irl.png)
 
+# Fulmar MkII
+
+![Fulmar MkII](/british/air/tier_1_img/FulmarMkII_1.png)
+
+![Fulmar MkII](/british/air/tier_1_img/FulmarMkII_1_irl.png)
+
 # H.P.12
 
 ![H.P.12](/british/air/tier_1_img/HP12_1.png)
