@@ -9,3 +9,9 @@
 ![P-51D-20-NA](/israel/air/tier_4_img/P51D20NA_1.png)
 
 ![P-51D-20-NA](/israel/air/tier_4_img/P51D20NA_1_irl.png)
+
+# SB2C-5
+
+![SB2C-5](/israel/air/tier_4_img/SB2C5_1.png)
+
+![SB2C-5](/israel/air/tier_4_img/SB2C5_1_irl.png)
