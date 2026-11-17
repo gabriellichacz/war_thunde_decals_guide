@@ -20,6 +20,18 @@
 
 ![D.520](/france/air/tier_2_img/D520_1_irl.png)
 
+![D.520](/france/air/tier_2_img/D520_2.png)
+
+![D.520](/france/air/tier_2_img/D520_2_irl.png)
+
+![D.520](/france/air/tier_2_img/D520_3.png)
+
+![D.520](/france/air/tier_2_img/D520_3_irl.png)
+
+![D.520](/france/air/tier_2_img/D520_4.png)
+
+![D.520](/france/air/tier_2_img/D520_4_irl.png)
+
 # Potez 630
 
 ![Potez 630](/france/air/tier_2_img/Potez630_1.png)
