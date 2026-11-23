@@ -1,3 +1,9 @@
+# Spitfire Mk IXc
+
+![Spitfire Mk IXc](/israel/air/tier_4_img/SpitfireMkIXc_1.png)
+
+![Spitfire Mk IXc](/israel/air/tier_4_img/SpitfireMkIXc_1_irl.png)
+
 # Sakeen
 
 ![Sakeen](/israel/air/tier_4_img/Sakeen_1.png)
